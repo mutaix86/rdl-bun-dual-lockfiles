@@ -1,0 +1,14 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "rdl-bun-dual-lockfiles",
+      "dependencies": {
+        "lodash": "^4.17.21"
+      }
+    }
+  },
+  "packages": {
+    "lodash": ["lodash@4.17.21", "", {}, ""]
+  }
+}
